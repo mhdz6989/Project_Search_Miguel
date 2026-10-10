@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "eece6399-fa26"
+assignment: "project1"
+owner:
+  username: "mhdz6989"
+  id: 123098192
+  accepted_at: "2026-10-10T02:12:07Z"
+source:
+  owner: "utrgv-eece6399"
+  owner_id: 327676022
+  repo: "project1-search-template"
+  branch: "main"
